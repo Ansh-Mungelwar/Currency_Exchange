@@ -13,30 +13,33 @@
     />
   </head>
   <body>
-    <form>
-      <div class="amount">
-        <p>Enter Amount</p>
-        <input value="100" type="text" />
-      </div>
-      <div class="dropdown">
-        <div class="from">
-          <p>from</p>
-          <div class="select-container">
-            <img src="https://flagsapi.com/US/flat/64.png" />
-            <select name="form"></select>
+    <div class="container">
+      <h2>Currency Exchange</h2>
+      <form>
+        <div class="amount">
+          <p>Enter Amount</p>
+          <input value="100" type="text" />
+        </div>
+        <div class="dropdown">
+          <div class="from">
+            <p>from</p>
+            <div class="select-container">
+              <img src="https://flagsapi.com/US/flat/64.png" />
+              <select name="form"></select>
+            </div>
+          </div>
+          <i class="fa-solid fa-arrow-right-arrow-left"></i>
+          <div class="to">
+            <p>To</p>
+            <div class="select-container">
+              <img src="https://flagsapi.com/IN/flat/64.png" />
+              <select name="form"></select>
+            </div>
           </div>
         </div>
-        <i class="fa-solid fa-arrow-right-arrow-left"></i>
-        <div class="to">
-          <p>To</p>
-          <div class="select-container">
-            <img src="https://flagsapi.com/IN/flat/64.png" />
-            <select name="form"></select>
-          </div>
-        </div>
-      </div>
-      <div class="msg">1 USD = 96 INR</div>
-      <button>Get Exchange Rate</button>
-    </form>
+        <div class="msg">1 USD = 96 INR</div>
+        <button>Get Exchange Rate</button>
+      </form>
+    </div>
   </body>
 </html>

@@ -9,3 +9,10 @@ body {
   min-height: 100vh;
   background-color: #41431b;
 }
+.container {
+  background-color: #aeb784;
+  border-radius: 1rem;
+  min-height: 45vh;
+  min-width: 40vh;
+  padding: 2rem;
+}

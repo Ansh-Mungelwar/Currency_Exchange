@@ -19,3 +19,9 @@ body {
 form {
   margin: 2rem 0 2rem 0;
 }
+.dropdown {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+}

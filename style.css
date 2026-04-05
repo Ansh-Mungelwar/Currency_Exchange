@@ -16,3 +16,6 @@ body {
   min-width: 40vh;
   padding: 2rem;
 }
+form {
+  margin: 2rem 0 2rem 0;
+}

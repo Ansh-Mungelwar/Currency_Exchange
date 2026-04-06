@@ -28,3 +28,12 @@ form {
 form {
   margin: 2rem 0 2rem 0;
 }
+form input,
+select,
+button {
+  border: none;
+  outline: none;
+  background-color: #f8f3e1;
+  width: 100%;
+  border-radius: 0.75rem;
+}

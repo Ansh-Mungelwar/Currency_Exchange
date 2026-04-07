@@ -37,3 +37,8 @@ button {
   width: 100%;
   border-radius: 0.75rem;
 }
+.amount p {
+  margin-left: 8px;
+  font-size: 1rem;
+  font-weight: 300;
+}

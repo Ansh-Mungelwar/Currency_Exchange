@@ -42,3 +42,10 @@ button {
   font-size: 1rem;
   font-weight: 300;
 }
+input {
+  height: 2rem;
+  padding-left: 0.5rem;
+  width: 20vw;
+  border: 2px solid #e3dbbb;
+  font-weight: bolder;
+}

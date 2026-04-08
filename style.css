@@ -49,3 +49,9 @@ input {
   border: 2px solid #e3dbbb;
   font-weight: bolder;
 }
+.select-container {
+  display: flex;
+  height: 1.8rem;
+  justify-content: center;
+  align-items: center;
+}

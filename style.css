@@ -54,4 +54,9 @@ input {
   height: 1.8rem;
   justify-content: center;
   align-items: center;
+  margin-top: 10px;
+  background-color: #f8f3e1;
+  border-radius: 1rem;
+  width: 5.3rem;
+  padding-left: 0.4rem;
 }
